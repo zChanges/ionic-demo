@@ -1,5 +1,5 @@
+import { HomePage } from './home';
 import { NgModule } from '@angular/core';
-import { HomePage} from './home';
 import { IonicPageModule } from 'ionic-angular';
 import { BookListPageModule } from './../book-list/book-list.module';
 
